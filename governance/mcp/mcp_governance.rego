@@ -34,6 +34,7 @@ read_only_tools := {
 	"api_job_templates_launch_read",
 	"api_inventories_read", "api_inventories_list",
 	"api_hosts_read", "api_hosts_list",
+	"api_hosts_groups_list", "api_groups_read", "api_groups_list",
 	"api_projects_read", "api_projects_list",
 	"api_projects_update_read",
 	"api_credentials_read", "api_credentials_list",
